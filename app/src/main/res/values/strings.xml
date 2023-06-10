@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ActividadElf</string>
+    <string name="boton1">Boton 1</string>
+    <string name="boton2">Boton 2</string>
+    <string name="boton3">Boton 3</string>
+    <string name="boton4">Boton 4</string>
+    <string name="boton5">Boton 5</string>
+    <string name="boton6">Boton 6</string>
+    <string name="toast1">Toast del boton 1! Hola!</string>
+    <string name="toast2">Toast del boton 2! Gatos!</string>
+    <string name="toast3">Toast del boton 3! Chocolate!</string>
+    <string name="toast4">Toast del boton 4! Perros!</string>
+    <string name="toast5">Toast del boton 5! ...</string>
+    <string name="toast6">Toast del boton 6! Aburrido!</string>
+</resources>
